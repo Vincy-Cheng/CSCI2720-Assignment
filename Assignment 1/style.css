@@ -1,0 +1,136 @@
+/* CSCI 2720 Assignment 1
+Name: Cheng Wing Lam
+SID: 1155125313 */
+
+header {
+    /* background image from https://www.google.com/url?sa=i&url=https%3A%2F%2Fglobal.com.cuhk.edu.hk%2F&psig=AOvVaw0eihuqkRPWYrCO6a3ZGSor&ust=1645845615691000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCv7fbymfYCFQAAAAAdAAAAABAD */
+    background-image: url("images/aboutcuhk5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
+    background-position: center;
+    position: relative;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: rgba(255, 255, 255, 0.767);
+}
+
+#comment-title {
+    padding-bottom: 10px;
+}
+
+#Special {
+    color: red;
+}
+
+#Special:hover {
+    color: firebrick;
+}
+
+#tasks {
+    display: none;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+}
+
+.container div {
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+/* .container div h3 {
+    color: white;
+    text-align: center;
+} */
+
+.bg {
+    color: black;
+}
+
+#about-me {
+    background-color: peru;
+    padding: 10px;
+}
+
+#about-me img {
+    max-height: 300px;
+}
+
+table p {
+    display: inline-block;
+}
+
+#hobby {
+    background-color: lightskyblue;
+    padding: 10px;
+}
+
+#hobby-list>div {
+    min-width: 120px;
+    min-height: 100px;
+    margin: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: navy;
+    color: white;
+    /* white-space: normal; */
+    word-wrap: break-word;
+    padding: 10px;
+}
+
+#CU-pic {
+    background-color: slategrey;
+    padding: 10px;
+}
+
+#CU-pic img {
+    max-width: 100%;
+    padding: 10px;
+    margin: 10px;
+    /* border: 5px black solid; */
+}
+
+#responsive {
+    background-color: darkseagreen;
+    padding: 10px;
+}
+
+#responsive p {
+    text-align: justify;
+}
+
+#CommentPart {
+    padding: 10px;
+}
+
+.space {
+    margin: 10px;
+}
+
+footer {
+    margin-top: 10px;
+    top: 100%;
+    position: sticky;
+    bottom: 0;
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: end;
+}
+
+.darkmode {
+    color: white;
+}
+
+
+/* The .mx-auto class can be used to align the items to the center of the navbar.
+The .ms-auto class is used to align items to the right of the navbar.
+The .me-auto class is used to align items to the left of that navbar. */
