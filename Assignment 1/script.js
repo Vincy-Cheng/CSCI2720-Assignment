@@ -1,6 +1,5 @@
 // CSCI 2720 Assignment 1
-// Name: Cheng Wing Lam
-// SID: 1155125313
+
 
 document.querySelector("#Special").onclick = function() {
     var tasks = document.querySelector("#tasks");
