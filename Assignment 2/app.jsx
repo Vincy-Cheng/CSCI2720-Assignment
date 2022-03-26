@@ -1,6 +1,5 @@
 // CSCI2720 Assignment 2
-// Name: Cheng Wing Lam
-// SID: 1155125313
+
 
 const { BrowserRouter, Routes, Route, Link } = ReactRouterDOM;
 const { useMatch, useParams, useLocation } = ReactRouterDOM;
