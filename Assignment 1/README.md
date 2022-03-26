@@ -13,5 +13,5 @@ Output:
 ![output-4](https://user-images.githubusercontent.com/60846680/160234912-61095c70-83d0-48cf-83f4-8c7de7d9d6f2.jpg)
 
 
-Youtbue video:
+Youtube video:
 https://www.youtube.com/watch?v=CSxL6dyXExg
