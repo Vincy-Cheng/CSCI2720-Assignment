@@ -1,6 +1,6 @@
 # CUHK CSCI2720-Assignment Folder (2022 Spring)
 
-CSCI2720 Web Application
+CSCI2720 Building Web Application
 
 Assignment 1: BOOTSTRAP WEB PAGE WITH A WEB FORM
 
