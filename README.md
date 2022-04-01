@@ -1,5 +1,7 @@
 # CUHK CSCI2720-Assignment Folder (2022 Spring)
 
+CSCI2720 Web Application
+
 Assignment 1: BOOTSTRAP WEB PAGE WITH A WEB FORM
 
 Assignment 2: SIMPLE IMAGE SYSTEM IN REACT
