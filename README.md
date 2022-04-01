@@ -1,1 +1,7 @@
 # CUHK CSCI2720-Assignment Folder (2022 Spring)
+
+Assignment 1: BOOTSTRAP WEB PAGE WITH A WEB FORM
+
+Assignment 2: SIMPLE IMAGE SYSTEM IN REACT
+
+Assignment 3: USING DATABASE VIA NODE.JS
