@@ -1,10 +1,10 @@
-CSCI2720 Assignment 1
+# CSCI2720 Assignment 1
 
 Simple web site with HTML, bootstrap, CSS and Javascript.
 
 Please use Web Server for Chrome from Google Chrome extension to open the website. https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
 
-Output:
+# Output:
 See the react of javascript functions in Youtube
 Youtube link: https://www.youtube.com/watch?v=CSxL6dyXExg
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/60846680/161310992-a3024b72-da2d-4b8c-b1e9-066cff8fb792.png">
