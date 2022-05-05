@@ -73,7 +73,7 @@ db.once('open', function () {
                 //     "\"\n}," +
                 //     "\n\"quota\": " + results.quota +
                 //     "\n}")
-                var event = JSON.stringify(results)
+                var event = JSON.stringify(results, null, "\t")
                 res.send(event)
             }
         }, error => {
